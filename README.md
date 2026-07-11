@@ -1,2 +1,2 @@
-# -Projects-HTML-CSS-JS
-beginner Projects HTML , CSS ,JS
+# -Projects-HTML-CSS
+beginner Projects HTML , CSS
